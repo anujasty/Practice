@@ -1,3 +1,4 @@
+Third Change in Progress..
 SecondChange After Commit!
 Firstchange after commit!
 This is the intial line!
